@@ -2,7 +2,7 @@
   <img src="frontend/public/logo.svg" alt="OneSeven 17 logo" width="80" />
 </p>
 
-# OneSeven 17 — Full-Stack MERN E-Commerce
+# OneSeven 17 — Full-Stack MERN E-Commerce (Live URL : https://one-seven-17.vercel.app/)
 
 A complete e-commerce site for selling Borkha / Abaya / Modest wear online, built with **MongoDB, Express, React (Vite), and Node.js**.
 
